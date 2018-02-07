@@ -4,7 +4,7 @@
   <default remote="couchbase" revision="master" />
 
   <project name="gocb" path="goproj/src/github.com/couchbase/gocb" />
-  <project name="gocbcore" path="goproj/src/github.com/couchbaselabs/gocbcore" />
+  <project name="gocbcore" path="goproj/src/github.com/couchbase/gocbcore" />
   <project name="couchnode" />
   <project name="libcouchbase" />
 </manifest>
