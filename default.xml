@@ -3,8 +3,8 @@
   <remote name="couchbase" fetch="git://github.com/couchbase/" review="review.couchbase.org" />
   <default remote="couchbase" revision="master" />
 
-  <project name="gocb" path="goproj/src/github.com/couchbase/gocb" />
-  <project name="gocbcore" path="goproj/src/github.com/couchbase/gocbcore" />
+  <project name="gocb" path="goproj/src/gopkg.in/couchbase/gocb.v1" />
+  <project name="gocbcore" path="goproj/src/gopkg.in/couchbase/gocbcore.v7" />
   <project name="couchnode" />
   <project name="libcouchbase" />
 </manifest>
